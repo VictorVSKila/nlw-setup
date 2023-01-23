@@ -34,9 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábits.
 
+- [Visite o projeto online](https://VictorVSKila.github.io/nlw-setup)
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/n0eKkDV3EFf0OsoUr1C9Fk/Habits-(e)-(Community)?node-id=6%3A910&t=dr13AntR2hxhhj5I-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/n0eKkDV3EFf0OsoUr1C9Fk/Habits-(e)-(Community)?node-id=6%3A910&t=dr13AntR2hxhhj5I-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
